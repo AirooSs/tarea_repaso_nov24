@@ -9,3 +9,5 @@ En tercer lugar, he modificado el .gitignore con los archivos a ignorar, para po
 nueva llamada "nueva_rama"
 
 Una vez realizé mi primer commit, voy a realizar el segundo que es escribir este texto
+
+Realizo un tercer commit que es añadir este texto
